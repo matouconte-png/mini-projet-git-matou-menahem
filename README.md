@@ -19,4 +19,4 @@ Nous allons apprendre à créer des branches, effectuer des commits, envoyer nos
 
 ## Objectif
 
-Apprendre à travailler à plusieurs sur un même projet en utilisant Git et GitHub, tout en respectant les bonnes pratiques de collaboration.
+Développer nos compétences en programmation et apprendre à utiliser Git en équipe.
