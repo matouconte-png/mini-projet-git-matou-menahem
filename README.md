@@ -18,5 +18,5 @@ Nous allons apprendre à créer des branches, effectuer des commits, envoyer nos
 - [Mémo des commandes Git](memo-git.md)
 
 ## Objectif
-
-Creation du conflit
+ 
+Améliorer notre maîtrise de GitHub grâce à un projet réalisé en collaboration
