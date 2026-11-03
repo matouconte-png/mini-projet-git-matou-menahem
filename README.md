@@ -19,4 +19,4 @@ Nous allons apprendre à créer des branches, effectuer des commits, envoyer nos
 
 ## Objectif
 
-Développer nos compétences en programmation et apprendre à utiliser Git en équipe.
+Développer nos compétences en programmation, apprendre à utiliser Git et GitHub et améliorer notre capacité à travailler en équipe.
